@@ -1,3 +1,5 @@
+# No olvidar agregar la dependencia spring-boot-starter-validation en el pom.xml
+
 Para validar es muy importante agregar la siguiente dependencia en el `pom.xml` del proyecto Spring Boot:
 
 ```xml
