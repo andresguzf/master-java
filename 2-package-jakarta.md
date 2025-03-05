@@ -13,6 +13,7 @@ import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;
+```
 
 Y antes, en Spring Boot 2, se importaba de:
 
@@ -25,5 +26,6 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;
 import javax.validation.constraints.Max;
 import javax.validation.constraints.Min;
+```
 
 Esto se debe a que Spring Boot 2 usa por debajo (tras bambalinas) en Spring Framework Java EE 8, mientras que Spring Boot 3 usa Jakarta EE 9.
