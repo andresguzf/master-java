@@ -6,7 +6,7 @@ Ademas es muy similar pero mucho mas robusto, estándar y no requiere instalar p
 
 ### Pero igualmente recomiendo los siguientes plugins:
 
-https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2
-https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
-https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode
-https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+[https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
+[https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode)
+[https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode](https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+[https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
