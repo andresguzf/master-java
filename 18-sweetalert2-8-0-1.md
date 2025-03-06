@@ -1,6 +1,6 @@
-#Actualización: nueva versión de SweetAlert2 8.0.1 o superior
+# Actualización: nueva versión de SweetAlert2 8.0.1 o superior
 
-###Bueno! esto es un adelanto a la próxima clase, para dejar en claro respecto a la última versión del SweetAlert2 (8.x):
+### Bueno! esto es un adelanto a la próxima clase, para dejar en claro respecto a la última versión del SweetAlert2 (8.x):
 
 Si instalan la última versión del `SweetAlert2`, la `8.10.0` o superior van a obtener un error:
 
